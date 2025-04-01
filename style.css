@@ -1,0 +1,177 @@
+html, body {
+  height: 100%;
+  width: 100%;
+	background-color: rgb(0, 0, 0);
+}
+
+#OpScreen{
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+	height: 10px;
+}
+
+.button{
+  outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 100%;
+	width: 115px;
+  height: 115px;
+  font-size: 80px;
+  background-color: rgb(50, 50, 50);
+	color: rgb(255, 255, 255);
+  transition-duration: 0.5s;
+	border: none;
+}
+
+.button:hover{
+  background-color: rgb(180, 180, 180);
+}
+
+#button1:focus,
+#button2:focus,
+#button3:focus,
+#button4:focus,
+#button5:focus,
+#button6:focus,
+#button7:focus,
+#button8:focus,
+#button9:focus{
+  background-color: rgb(180, 180, 180);
+}
+
+.sautdeligne{
+  font-size: 8px;
+}
+
+#screen{
+  font-size: 120px;
+	color: rgb(255, 255, 255);
+}
+
+#buttonp{
+	outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 100%;
+	width: 115px;
+  font-size: 100px;
+	color: rgb(255, 255, 255);
+  background-color: rgb(255, 150, 0);
+  transition-duration: 0.5s;
+	border: none;
+}
+
+#buttonp:focus,
+#buttonp:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 150, 0);	
+}
+
+#buttonm{
+  outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 100%;
+	width: 115px;
+  font-size: 100px;
+	color: rgb(255, 255, 255);
+  background-color: rgb(255, 150, 0);
+  transition-duration: 0.5s;
+	border: none;
+}
+
+#buttonm:focus,
+#buttonm:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 150, 0);
+}
+
+#buttonx{
+  outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 100%;
+	width: 115px;
+  font-size: 100px;
+	color: rgb(255, 255, 255);
+  background-color: rgb(255, 150, 0);
+  transition-duration: 0.5s;
+	border: none;
+}
+
+#buttonx:focus,
+#buttonx:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 150, 0);
+}
+
+#buttond{
+  outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 100%;
+	width: 115px;
+  font-size: 100px;
+	color: rgb(255, 255, 255);
+  background-color: rgb(255, 150, 0);
+  transition-duration: 0.5s;
+	border: none;
+}
+
+#buttond:focus,
+#buttond:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 150, 0);
+}
+
+#eff{
+  outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 55px;
+  font-size: 100px;
+  background-color: rgb(100, 100, 100);
+  transition-duration: 0.5s;
+  width: 233px;
+	color: rgb(0,0,0);
+	border: none;
+}
+
+#eff:hover{
+  background-color: rgb(255,255,255);
+}
+
+#supp{
+  outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 55px;
+  font-size: 100px;
+  background-color: rgb(100, 100, 100);
+  transition-duration: 0.5s;
+  width: 233px;
+	color: rgb(0,0,0);
+	border: none;
+}
+
+#supp:hover{
+  background-color: rgb(255, 255, 255);
+}
+
+#buttonpt{
+  outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 100%;
+	width: 115px;
+  font-size: 100px;
+  background-color: rgb(50, 50, 50);
+	color: rgb(255, 255, 255);
+  transition-duration: 0.5s;
+	border: none;
+}
+
+#buttonpt:hover{
+  background-color: rgb(180, 180, 180);
+}
+	
+#buttone{
+	outline: 1.5px ridge rgba(0, 0, 0, 1);
+  border-radius: 100%;
+	width: 115px;
+  font-size: 100px;
+	color: rgb(255, 255, 255);
+  background-color: rgb(255, 150, 0);
+  transition-duration: 0.5s;
+	border: none;
+}
+
+#buttone:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 150, 0);
+}
